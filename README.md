@@ -12,7 +12,11 @@ cd voice_gpt
 pip install -r requirements.txt
 ```
 
-Once you have installed the dependencies, you can run the voice assistant by running the following command:
+### API keys
+
+You need to add your OpenAI and your ElevenLabs API keys to the .env file.
+
+Once you have installed the dependencies and added the API keys, you can run the voice assistant by running the following command:
 
 python voice_gpt.py
 
