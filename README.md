@@ -6,7 +6,11 @@ This project is a simple voice assistant that uses WhisperAI to transcribe audio
 
 To get started with this project, you will need to clone this repository and install the required dependencies. You can do this by running the following commands:
 
-git clone https://github.com/your-username/voice-assistant.git cd voice-assistant pip install -r requirements.txt
+``` bash
+git clone git@github.com:f-linus/voice_gpt.git
+cd voice_gpt
+pip install -r requirements.txt
+```
 
 Once you have installed the dependencies, you can run the voice assistant by running the following command:
 
