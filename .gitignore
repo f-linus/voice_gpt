@@ -2,3 +2,4 @@
 /output.mp3
 /output.mpeg
 /__pycache__
+.env
