@@ -1,4 +1,4 @@
-# Voice Assistant
+# VoiceGPT
 
 This project is a simple voice assistant that uses WhisperAI to transcribe audio to text, GPT-4 to generate responses, and ElevenLabs text-to-speech to speak the response.
 
